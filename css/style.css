@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    background-color: aquamarine;
+    text-align: center;
+}
+.service1{
+    background-color: blue;
+    text-align: center;
+   width: 35%;
+   height: 250px;
+   float: left;
+}
+.service2{
+    background-color: rgb(160, 98, 218);
+    text-align: center;
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+.service3{
+    background-color: rgb(13, 190, 66);
+    text-align: center;
+   width: 35%;
+   height: 250px;
+   float: left;
+}
+.content{
+    overflow: hidden;
+}
+.reception_center1{
+    background-color: rgb(34, 6, 6);
+    text-align: center;
+    color: gainsboro;
+   width: 35%;
+   height: 250px;
+   float: left;
+}
+.reception_center2{
+    background-color: crimson;
+    text-align: center;
+   width: 30%;
+   height: 250px;
+   float: left;
+   
+
+}
+.reception_center3{
+    background-color: rgb(231, 175, 105);
+    text-align: center;
+    color:blanchedalmond ;
+    width: 35%;
+    height: 250px;
+    float: right;
+
+}
+.content2{
+    overflow: hidden;
+
+}
+.footer{
+    background-color: red;
+    text-align: center;
+}
